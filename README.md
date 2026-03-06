@@ -2,11 +2,12 @@
 CAP 6315 - Projects
 ___
 
-## CAP 6315 Project Part 1 – Social Network EDA
-This term-long project will guide you through the full big data pipeline 
-using one real-world large dataset. You will work with the same dataset 
+## CAP 6315 Project
+This term-long project will guide you through the full big data pipeline
+using one real-world large dataset. You will work with the same dataset
 both project parts.
 
+## CAP 6315 Project Part 1 – Social Network EDA
 ### Project Part 1 Learning Objectives:
 - Students will be able to use NetworkX library to create and visualize social 
 networks, as well as extract meaningful metrics from it.
@@ -21,14 +22,21 @@ clear visualizations and written interpretations.
 networks.
 - Apply and compare community detection algorithms.
 
-## CAP 6325 Project Part 2 – Social Network EDA
-This term-long project will guide you through the full big data pipeline
-using one real-world large dataset. You will work with the same dataset
-both project parts.
-
+## CAP 6325 Project Part 2 – Predictive Modeling
 ### Project Part 2 Learning Objectives:
+You must continue working with the same dataset and the same partner used in 
+Project Part #1. For this part, you must choose ONE of the two options below 
+(either option A or option B). Once you complete option A or B, complete a
+written report describing your project.
+
+- Option A - Node Classification (Partner Prediction)
+- Option B - Link Prediction
+
+*Note: Option A was selected for this project and report*
 
 ## Written Report
+Submit a written report summarizing both parts of the project. 
+Include all figures and interpretations. 
 
 
 ## Project Links
