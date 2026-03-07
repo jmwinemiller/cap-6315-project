@@ -1,8 +1,8 @@
 # cap-6315-project
-CAP 6315 - Projects
+CAP 6315 - Social Networks and Big Data Analytics
 ___
 
-## CAP 6315 Project
+## CAP 6315 - Social Networks and Big Data Analytics Project
 This term-long project will guide you through the full big data pipeline
 using one real-world large dataset. You will work with the same dataset
 both project parts.
@@ -37,6 +37,9 @@ written report describing your project.
 ## Written Report
 Submit a written report summarizing both parts of the project. 
 Include all figures and interpretations. 
+
+- JordanWinemiller_CAP6315_report.tex
+- JordanWinemiller_CAP6315_report.pdf
 
 
 ## Project Links
